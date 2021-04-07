@@ -1,2 +1,2 @@
-# effective-palm-tree
+# GIt-School
 For use git command 
